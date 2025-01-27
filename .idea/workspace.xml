@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab2f5073-b1f5-4e76-bf9a-8b4579754c4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/AddtoArrayFormofInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/AddtoArrayFormofInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/CountSubstringsWithKFrequencyCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/CountSubstringsWithKFrequencyCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/DetectCapitalUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/DetectCapitalUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/FancyString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/FancyString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/FindDuplicateChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/FindDuplicateChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/FindTheDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/FindTheDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/FindThird.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/FindThird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/FirstUniqueCharacterInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/FirstUniqueCharacterInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/IntegerToHexadecimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/IntegerToHexadecimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/LongestPalindromicSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/LongestSquareStreakInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/LongestSquareStreakInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/MajorityElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/MissingInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/MissingInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/MountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/MountainArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/MoveAllNegativeNumberToEndOfTheArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/MoveAllNegativeNumberToEndOfTheArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/MoveAllZerosToEndOfTheArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/MoveAllZerosToEndOfTheArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/PhrasePalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/PhrasePalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/ProductArrayPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/ProductArrayPuzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/RankTransformofanArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/RankTransformofanArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/RemoveDuplicateFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/RemoveDuplicateFromSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/RemoveDuplicateLetters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/RemoveDuplicateLetters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/RemoveOutermostParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/RemoveOutermostParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/RemoveVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/RemoveVowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/RererseWordsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/RererseWordsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/RotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/SortArraysWith0s1s2s.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/SortArraysWith0s1s2s.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/SortCharactersByFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/SortCharactersByFrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/Temp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/Temp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/Testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/Testing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/TwoSumPairWithGivenSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/TwoSumPairWithGivenSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entities/UnionOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entities/UnionOfTwoArrays.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2sDRmwVTeaB6KhgoWh7gQmD43pI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/KNOW-IT/JAVA"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab2f5073-b1f5-4e76-bf9a-8b4579754c4c" name="Changes" comment="" />
+      <created>1737988323596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737988323596</updated>
+    </task>
+    <servers />
+  </component>
+</project>
